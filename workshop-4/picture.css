@@ -1,0 +1,6 @@
+.myimage{
+    border-radius: 60%;
+    width: auto;
+    height: 600px;
+    background-size: covers;
+}
